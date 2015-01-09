@@ -11,9 +11,7 @@
             android:name=".FragmentLayout"
             android:label="@string/app_name" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.iafsdadfg3q4a56yeza56t" />
             </intent-filter>
         </activity>
 
